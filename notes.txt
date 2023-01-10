@@ -1,0 +1,2 @@
+'Reg' | 'Prov' | 'Dist' | 'City' | 'Mun' | 'Bgy'
+region -> province/district -> city/municipality -> barangay
